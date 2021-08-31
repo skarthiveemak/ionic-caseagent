@@ -1,7 +1,10 @@
 {
   "name": "ionic-caseagent",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
